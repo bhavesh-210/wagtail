@@ -334,3 +334,4 @@ The [Treebeard docs](inv:treebeard:std:doc#mp_tree) might help in understanding 
 #### Additional testing guides
 
 - [Testing documents](documents/testing.md)
+- [Unit testing hooks](../reference/hooks.md#unit-testing-hooks)

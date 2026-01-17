@@ -29,4 +29,5 @@ file_data = {
 }
 
 form = get_document_form(models.Document)(form_data, file_data)
+assert form.is_valid()
 ```
